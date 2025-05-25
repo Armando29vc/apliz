@@ -18,7 +18,7 @@ export default function Animales() {
   return (
     <section>
       <div className="flex w-full px-3 sticky top-34 md:top-18 bg-[#030219] z-10">
-        <h2 className="text-2xl font-bold text-cyan-300">🐕‍🦺 Animales</h2>
+        <h2 className="text-2xl font-bold text-cyan-300">Animales 🐕‍🦺</h2>
       </div>
 
       {Object.entries(subcategorias).map(([categoria, palabras]) => (

@@ -6,7 +6,7 @@ export default function Colores() {
   return (
     <section className="">
       <div className="flex w-full px-3  sticky top-34 md:top-18 bg-[#030219] z-10">
-      <h2 className="text-2xl font-bold text-cyan-300">🎨 Colores en Zapoteco</h2>
+        <h2 className="text-2xl font-bold text-cyan-300">Colores en Zapoteco 🎨</h2>
       </div>
       <div className="grid grid-cols-[repeat(auto-fit,minmax(280px,_1fr))]  gap-3 p-3">
         {colores.map((palabra, index) => (

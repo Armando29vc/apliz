@@ -3,52 +3,44 @@ export const animales: Palabra[] = [
   {
     es: "Perro",
     za: "Bi'cu'",
-    imagen: "img/animales/domesticados/perro.png",
-    audio: {
-      es: "/audio/es/rojo.mp3",
-      za: "/audio/za/naxhiña.mp3"
-    },
-    ejemplo: {
-      es: "La flor es roja",
-      za: "Guxhii naxhiña"
-    },
+    imagen: "",
     nota: "Usado para describir objetos vivos y fuertes",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
     es: "Gato",
     za: "Mixtu'",
-    imagen: "img/animales/domesticados/gato.png",
+    imagen: "",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
     es: "Gallina",
     za: "Bere",
-    imagen: "img/animales/domesticados/gallina.png",
+    imagen: "",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
     es: "Marrano",
     za: "Bihui",
-    imagen: "img/animales/domesticados/cerdo.png",
+    imagen: "",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
     es: "Guacamaya",
     za: "Behua",
-    imagen: "img/animales/domesticados/guacamaya.png",
+    imagen: "",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
     es: "Loro",
     za: "Nguengue",
-    imagen: "img/animales/domesticados/loro.png",
+    imagen: "",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
     es: "Conejo",
     za: "Lexu",
-    imagen: "img/animales/domesticados/conejo.png",
+    imagen: "",
     subcategoria: "Animales domesticados | Mani' bidó'",
   },
   {
@@ -90,7 +82,7 @@ export const animales: Palabra[] = [
   {
     es: "Serpiente",
     za: "Beenda'",
-    imagen: "img/animales/silvestres/serpiente.png",
+    imagen: "",
     subcategoria: "silvestres",
   },
   {

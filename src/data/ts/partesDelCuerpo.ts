@@ -3,21 +3,13 @@ export const partesDelCuerpo: Palabra[] = [
   {
     es: "Cabeza",
     za: "Ique",
-    imagen: "img/sprite.svg#cabeza",
-    audio: {
-      es: "/audio/es/rojo.mp3",
-      za: "/audio/za/naxhiña.mp3"
-    },
-    ejemplo: {
-      es: "La flor es roja",
-      za: "Guxhii naxhiña"
-    },
+    imagen: "",
     nota: "Usado para describir objetos vivos y fuertes"
   },
   {
     es: "Cráneo",
     za: "Xhigaique | bichugaique",
-    imagen: "img/sprite.svg#craneo"
+    imagen: ""
   },
   {
     es: "Frente",
@@ -85,19 +77,18 @@ export const partesDelCuerpo: Palabra[] = [
     imagen: ""
   },
   {
-    es: "Dxitalaya",
-    za: "Mandíbula",
+    es: "Mandíbula",
+    za: "Dxitalaya",
     imagen: ""
   },
   {
-    es: "Xhigui",
-    za: "Menton",
+    es: "Menton",
+    za: "Xhigui",
     imagen: ""
   },
   {
-    es: "Yanni",
-    za: "Cuello",
+    es: "Cuello",
+    za: "Yanni",
     imagen: ""
   },
-  
 ];

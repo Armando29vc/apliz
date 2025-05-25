@@ -13,23 +13,26 @@ export default defineConfig({
       manifest: {
         name: 'Aprende lengua indígena del zapoteco',
         short_name: 'Apliz',
-        start_url: '.',
+        start_url: '/apliz/',
         display: 'standalone',
         background_color: '#030219',
         theme_color: '#0f172a',
+        lang: 'es', // o el que prefieras
+        scope: '/apliz/',
         icons: [
           {
-            src: 'img/Apliz_192x192.png',
+            src: '/apliz/img/Apliz_192x192.png',
             sizes: '192x192',
             type: 'image/png',
           },
           {
-            src: 'img/Apliz_512x512.png',
+            src: '/apliz/img/Apliz_512x512.png',
             sizes: '512x512',
             type: 'image/png',
           },
         ],
       },
-    }),
+    })
+    
   ],
 });
